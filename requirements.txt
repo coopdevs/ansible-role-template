@@ -1,4 +1,4 @@
 ansible==7.1.0
-ansible-lint==6.10.0
+ansible-lint==6.10.2
 yamllint==1.28.0
 pre-commit==2.21.0
